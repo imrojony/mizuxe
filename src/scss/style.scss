@@ -1,4 +1,24 @@
-$bg-color: #333;
-body{
-  background: $bg-color;
+$primary:#3292a6;
+.navbar{
+  box-shadow: 2px 2px 5px $primary;
+  background: #fff;
+  opacity: 0.9;
+  .nav-item{
+    font-size: 1.4rem;
+    padding-right:20px;
+    .nav-link{
+      color: #252525;
+    }
+    .nav-link:hover{
+      $primary
+
+    }
+    .nav-item:last-child{
+      padding-right: 0px;
+
+    }
+  }
 }
+
+
+
