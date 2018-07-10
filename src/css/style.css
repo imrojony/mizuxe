@@ -1,5 +1,4 @@
 body {
-<<<<<<< HEAD
   margin-top: 90px; }
 
 .navbar {
@@ -33,6 +32,3 @@ body {
 @media (max-width: 576px) {
   h1 {
     font-size: 4rem; } }
-=======
-  background: #333; }
->>>>>>> e3f45eca28b33a36da340ef4214fe5a3f6d81df6
