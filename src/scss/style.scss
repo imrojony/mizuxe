@@ -38,6 +38,21 @@ body
 #subscribe{
   background: #252525;
 }
+#Authors{
+  img{
+    margin-top: -50px;
+  }
+  .fa{
+    font-size: 25px;
+  }
+  .card:hover{
+    background: $primary;
+    color: #fff;
+    .fa{
+      color: #fff;
+    }
+  }
+}
 
 @media(max-width: 576px) {
   h1{

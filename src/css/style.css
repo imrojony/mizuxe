@@ -29,6 +29,18 @@ body {
 #subscribe {
   background: #252525; }
 
+#Authors img {
+  margin-top: -50px; }
+
+#Authors .fa {
+  font-size: 25px; }
+
+#Authors .card:hover {
+  background: #3292a6;
+  color: #fff; }
+  #Authors .card:hover .fa {
+    color: #fff; }
+
 @media (max-width: 576px) {
   h1 {
     font-size: 4rem; } }
